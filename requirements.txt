@@ -1,0 +1,10 @@
+ijson
+matplotlib
+ipywidgets
+plotly
+ipython
+folium
+numpy
+networkx
+wordcloud
+pandas
